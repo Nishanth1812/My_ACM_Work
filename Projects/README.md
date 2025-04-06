@@ -20,12 +20,8 @@ A showcase of production-ready AI & Machine Learning projects solving real-world
 
 AI-powered question-answering system for document analysis.
 
-**Tech Stack:** Google Text Embeddings, LangChain, Vector DB, Streamlit
-
-<div align="right">
-  
-  [📘 Documentation](https://github.com/Nishanth1812/Projects/blob/main/Document_qna_Chatbot/README.md) | [🔗 Live Demo](https://projects-86komz42enip8tavm3j76s.streamlit.app/)
-</div>
+**Tech Stack:** Google Text Embeddings, LangChain, Vector DB, Streamlit  
+📘 [Documentation](https://github.com/Nishanth1812/Projects/blob/main/Document_qna_Chatbot/README.md) | 🔗 [Live Demo](https://projects-86komz42enip8tavm3j76s.streamlit.app/)
 
 ---
 
@@ -33,22 +29,34 @@ AI-powered question-answering system for document analysis.
 
 AI recommendation system for educational resources.
 
-**Tech Stack:** Google Text Embeddings, Word2Vec, Flask, Streamlit
+**Tech Stack:** Google Text Embeddings, Word2Vec, Flask, Streamlit  
+📘 [Documentation](https://github.com/Nishanth1812/Projects/blob/main/Ml_Projects/Course_Recommendation_System/README.md) | 🚧 Coming Soon
 
-<div align="right">
-  
-  [📘 Documentation](https://github.com/Nishanth1812/Projects/blob/main/Course_Recommendation_System/README.md) | [🚧 Coming Soon]()
-</div>
+---
+
+### 🛣️ Pothole Segmentation Web App
+
+A YOLO-based segmentation model deployed as a Streamlit web app for detecting potholes in real-time using a webcam.
+
+**Tech Stack:** YOLOv11n, OpenCV, Streamlit  
+📘 [Documentation](https://github.com/Nishanth1812/Projects/blob/main/Pothole%20Segmentation%20using%20yolo%20v11n%20model/README.md) | 🔗 [Live Demo](https://yolo-app-app-fmkndepx9rud2hpec5k7zv.streamlit.app/)
+
+---
+
+### 🧠 Brain Tumor Classification (CNN-Based)
+
+A deep learning model to classify brain tumors using MRI images. Includes both a custom CNN and a Keras Sequential model, trained and evaluated with preprocessing and augmentation.
+
+**Tech Stack:** TensorFlow, Keras, OpenCV, CNN  
+📘 [Documentation](https://github.com/Nishanth1812/Projects/blob/main/Tumor%20Classification%20using%20cnn/README.md) | 🚫 Demo not yet available
 
 ---
 
 ## 🔬 Projects In Development
 
-### 🔹 Full Stack Music Streaming Service
-AI-powered recommendation engine with personalized playlists and music discovery
+### 🔹 Full Stack Music Streaming Service  
+AI-powered recommendation engine with personalized playlists and music discovery.
 
-### 🔹 Revenue management system
-Interactive and powerful application to manage your money 
 ---
 
 ## 💻 Tech Stack
@@ -70,8 +78,8 @@ Interactive and powerful application to manage your money
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nishanth1812-181717?style=for-the-badge&logo=github)](https://github.com/Nishanth1812)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishanth%20Devabathini-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishanth-devabathini-738a8a212/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nishanth1812-181717?style=for-the-badge&logo=github)](https://github.com/Nishanth1812)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishanth%20Devabathini-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishanth-devabathini-738a8a212/)  
 [![Email](https://img.shields.io/badge/Email-dn8.porps@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:dn8.porps@gmail.com)
 
 </div>
@@ -81,3 +89,6 @@ Interactive and powerful application to manage your money
 <div align="center">
   <p><i>Building the future with AI, one project at a time.</i></p>
 </div>
+
+---
+
