@@ -8,5 +8,6 @@ A deep learning model to classify brain tumors using MRI images. Includes both a
 
 📘 [Documentation](https://github.com/Nishanth1812/Projects/blob/main/Tumor%20Classification%20using%20cnn/README.md) | 🚫 Demo not yet available
 
-Project Repo Link: https://github.com/Nishanth1812/Projects/tree/main/Tumor%20Classification%20using%20cnn
---- 
+**Project Repo:** [`Tumor Classification using CNN`](https://github.com/Nishanth1812/Projects/tree/main/Tumor%20Classification%20using%20cnn)
+
+---
